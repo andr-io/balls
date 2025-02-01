@@ -1,2 +1,1 @@
-# lines-circles-and-other-mysteries
-C# things
+# Balls in C# Windows forms
